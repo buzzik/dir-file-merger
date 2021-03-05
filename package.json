@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/buzzik/dir-file-merger/issues"
   },
-  "homepage": "https://github.com/buzzik/dir-file-merger#readme"
+  "homepage": "https://github.com/buzzik/dir-file-merger#readme",
+  "dependencies": {
+    "user": "0.0.0"
+  }
 }
