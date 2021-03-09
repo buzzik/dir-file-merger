@@ -1,4 +1,4 @@
-# node-directory-file-merger
+# npm directory-file-merger
 node.js module for merging files from directory.
 It takes all files from a specific folder and merges their contents into one result file. 
 

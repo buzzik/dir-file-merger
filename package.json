@@ -1,28 +1,28 @@
 {
-    "name": "dir-file-merger",
-    "version": "0.8.0",
-    "description": "Merges all files from specific directory into one",
-    "main": "app.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/buzzik/dir-file-merger.git"
-    },
-    "keywords": [
-        "merge",
-        "files",
-        "batch",
-        "dir"
-    ],
-    "author": "Buzzik",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/buzzik/dir-file-merger/issues"
-    },
-    "homepage": "https://github.com/buzzik/dir-file-merger#readme",
-    "dependencies": {
-        "user": "0.0.0"
-    }
+  "name": "dir-file-merger",
+  "version": "0.8.2",
+  "description": "Merges all files from specific directory into one",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buzzik/dir-file-merger.git"
+  },
+  "keywords": [
+    "merge",
+    "files",
+    "batch",
+    "dir"
+  ],
+  "author": "Buzzik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buzzik/dir-file-merger/issues"
+  },
+  "homepage": "https://github.com/buzzik/dir-file-merger#readme",
+  "dependencies": {
+    "user": "0.0.0"
+  }
 }
