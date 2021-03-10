@@ -25,3 +25,11 @@ let resultFile = 'result.txt';
     console.log(result);
 })();
 ```
+
+Optionally you can provide 3rd parameter wich should be a string. This line will be appended to the end of each input file.
+
+```
+...
+      let result = await fileMerger('inputDirPath, resultFile,'\n');
+...
+```
