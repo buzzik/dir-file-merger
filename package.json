@@ -1,6 +1,6 @@
 {
   "name": "dir-file-merger",
-  "version": "0.8.2",
+  "version": "0.8.3",
   "description": "Merges all files from specific directory into one",
   "main": "app.js",
   "scripts": {
